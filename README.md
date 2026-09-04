@@ -7,3 +7,12 @@ Welcome to the Prompt Collection Repository! This repository contains prompts de
 <div align="center">
   <p><em>Happy prompt engineering!</em> ✨</p>
 </div>
+
+
+
+
+
+
+### Prompting Techniques
+
+- Inverted Prompting
